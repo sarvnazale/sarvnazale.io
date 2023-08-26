@@ -6,22 +6,22 @@ enableEmoji = true
 
 [Menu]
  [[menu.Main]]
-  identifier = "About"
+  identifier = "about"
   name = "About"
   url = "/about"
   weight = 1
  [[menu.Main]]
-  identifier = "Portfolio"
+  identifier = "portfolio"
   name = "Portfolio"
   url = "/Portfolio"
   weight = 2
  [[menu.Main]]
-  identifier = "Experiences"
+  identifier = "experiences"
   name = "Experiences"
   url = "/Experiences"
   weight = 3
  [[menu.Main]]
-  identifier = "Fun Stuff"
+  identifier = "fun stuff!"
   name = "Fun Stuff"
   url = "/Fun_Stuff"
   weight = 4
@@ -31,6 +31,7 @@ enableEmoji = true
 defaultTheme = "dark"
 # favicon 
 favicon = "img/favicon/favicon.ico"
+hideMeta = true
 
 [params.homeInfoParams]
 Title = "Hi there "
