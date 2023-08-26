@@ -39,7 +39,7 @@ Title = "Hi!! ! ! ! ! ! ❤️ 👋"
 Content = """
 My name is Sarvnaz, welcome to my personal website. 
 - I keep track of my portfolio and experiences here, as well as some fun projects that I am up to.
-- See my [resume](/pdfs/resume.pdf) and [my transcript](/pdfs/Academic_History.pdf).
+- See my [resume](/pdfs/resume.pdf) and [transcript](/pdfs/Academic_History.pdf).
 - Please reach out if you'd like to chat! ☕
 """
 [[params.socialIcons]]
