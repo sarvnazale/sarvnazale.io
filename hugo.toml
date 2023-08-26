@@ -32,7 +32,7 @@ defaultTheme = "dark"
 
 [params.homeInfoParams]
 Title = "Hi there "
-Content = "Can be Info, links, about..."
+#Content = "Can be Info, links, about..."
 
 [[params.socialIcons]]
 name = "<Github>"
