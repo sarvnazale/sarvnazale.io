@@ -2,3 +2,42 @@ baseURL = 'https://sarvnazale.io/'
 languageCode = 'en-us'
 title = 'sarvnazale'
 theme = 'PaperMod'
+
+
+[Menu]
+ [[menu.Main]]
+  identifier = "About"
+  name = "About"
+  url = "/about"
+  weight = 1
+ [[menu.Main]]
+  identifier = "Portfolio"
+  name = "Portfolio"
+  url = "/Portfolio"
+  weight = 2
+ [[menu.Main]]
+  identifier = "Experiences"
+  name = "Experiences"
+  url = "/Experiences"
+  weight = 3
+ [[menu.Main]]
+  identifier = "Fun Stuff"
+  name = "Fun Stuff"
+  url = "/Fun_Stuff"
+  weight = 4
+
+
+[params]
+defaultTheme = "dark"
+
+[params.homeInfoParams]
+Title = "Hi there"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "<Github>"
+url = "<https://github.com/sarvnazale>"
+
+[[params.socialIcons]]
+name = "<LinkedIn>"
+url = "<https://www.linkedin.com/in/sarvnaz-ale/>"
