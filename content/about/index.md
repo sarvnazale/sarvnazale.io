@@ -14,3 +14,5 @@ Second year [Engineering Science](https://engsci.utoronto.ca/program/what-is-eng
 
 
 ## Outside of school :brain:
+my transcript [Download PDF](/pdfs/Academic History.pdf)
+[Download PDF](/pdfs/Academic_History.pdf)
