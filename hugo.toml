@@ -2,7 +2,7 @@ baseURL = 'https://sarvnazale.io/'
 languageCode = 'en-us'
 title = 'sarvnazale'
 theme = 'PaperMod'
-
+enableEmoji = true
 
 [Menu]
  [[menu.Main]]
@@ -31,7 +31,7 @@ theme = 'PaperMod'
 defaultTheme = "dark"
 
 [params.homeInfoParams]
-Title = "Hi there"
+Title = "Hi there "
 Content = "Can be Info, links, about..."
 
 [[params.socialIcons]]
