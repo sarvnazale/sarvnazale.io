@@ -29,6 +29,8 @@ enableEmoji = true
 
 [params]
 defaultTheme = "dark"
+# favicon 
+favicon = "img/favicon/favicon.ico"
 
 [params.homeInfoParams]
 Title = "Hi there "
@@ -41,3 +43,5 @@ url = "<https://github.com/sarvnazale>"
 [[params.socialIcons]]
 name = "<LinkedIn>"
 url = "<https://www.linkedin.com/in/sarvnaz-ale/>"
+
+
