@@ -34,16 +34,26 @@ favicon = "img/favicon/favicon.ico"
 hideMeta = true
 
 [params.homeInfoParams]
-Title = "Hi there "
-#Content = "Can be Info, links, about..."
+Title = "Hi!! ! ! ! ! ! ❤️ 👋"
+#Content = "My name is Sarvnaz, and this is my personal website."
+Content = """
+My name is Sarvnaz, welcome to my personal website. 
+- I keep track of my portfolio and experiences here, as well as some fun projects that I am up to.
+- See my resume [here](https://sarvnazale.com/resume.pdf) and my transcript [here](https://sarvnazale.com/transcript.pdf).
+- Please reach out if you'd like to chat! ☕
+"""
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/sarvnaz-ale/"
+
 
 [[params.socialIcons]]
 name = "Github"
-url = "<https://github.com/sarvnazale>"
+url = "https://github.com/sarvnazale"
 
 [[params.socialIcons]]
-name = "<LinkedIn>"
-url = "<https://www.linkedin.com/in/sarvnaz-ale/>"
+name = "email"
+url = "mailto:hello@sarvnazale.com"
 
 [params.meta]
  favicon=true
