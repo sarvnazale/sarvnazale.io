@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://sarvnazale.github.io/'
 languageCode = 'en-us'
 title = 'sarvnazale'
 theme = 'PaperMod'
