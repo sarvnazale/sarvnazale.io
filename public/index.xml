@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home Page on sarvnazale</title>
-    <link>https://sarvnazale.io/</link>
+    <link>https://sarvnazale.com/</link>
     <description>Recent content in Home Page on sarvnazale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2023 23:39:58 -0400</lastBuildDate><atom:link href="https://sarvnazale.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Aug 2023 23:39:58 -0400</lastBuildDate><atom:link href="https://sarvnazale.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://sarvnazale.io/about/</link>
+      <link>https://sarvnazale.com/about/</link>
       <pubDate>Sat, 26 Aug 2023 00:09:39 -0400</pubDate>
       
-      <guid>https://sarvnazale.io/about/</guid>
+      <guid>https://sarvnazale.com/about/</guid>
       <description>What&amp;rsquo;s up with me keep this short and sweet</description>
     </item>
     
     <item>
       <title>Fun_Stuff</title>
-      <link>https://sarvnazale.io/fun_stuff/</link>
+      <link>https://sarvnazale.com/fun_stuff/</link>
       <pubDate>Fri, 25 Aug 2023 23:55:27 -0400</pubDate>
       
-      <guid>https://sarvnazale.io/fun_stuff/</guid>
+      <guid>https://sarvnazale.com/fun_stuff/</guid>
       <description>Add some hobbies and fun facts here pics of what im working on, non-tech related
 recent books I read that I like?
 low effort</description>
@@ -29,20 +29,20 @@ low effort</description>
     
     <item>
       <title>Portfolio</title>
-      <link>https://sarvnazale.io/portfolio/</link>
+      <link>https://sarvnazale.com/portfolio/</link>
       <pubDate>Fri, 25 Aug 2023 23:55:15 -0400</pubDate>
       
-      <guid>https://sarvnazale.io/portfolio/</guid>
+      <guid>https://sarvnazale.com/portfolio/</guid>
       <description>Split into icon ish list with links to projects and media, maybe a page for each? and some explanation praxis projects, conchshell, summer research, igem, idk
 could have overlap with experience but more outcome focused?</description>
     </item>
     
     <item>
       <title>Experiences</title>
-      <link>https://sarvnazale.io/experiences/</link>
+      <link>https://sarvnazale.com/experiences/</link>
       <pubDate>Fri, 25 Aug 2023 23:39:58 -0400</pubDate>
       
-      <guid>https://sarvnazale.io/experiences/</guid>
+      <guid>https://sarvnazale.com/experiences/</guid>
       <description>I store experiences here divide into what is on-going, and stuff from the past more resume ish?
 add a conferences/talks section? could be cool
 like attended: robotics conference opmc unerd etc</description>
