@@ -7,22 +7,22 @@ enableEmoji = true
 [Menu]
  [[menu.Main]]
   identifier = "about"
-  name = "About"
+  name = "about"
   url = "/about"
   weight = 1
  [[menu.Main]]
   identifier = "portfolio"
-  name = "Portfolio"
+  name = "portfolio"
   url = "/Portfolio"
   weight = 2
  [[menu.Main]]
   identifier = "experiences"
-  name = "Experiences"
+  name = "experiences"
   url = "/Experiences"
   weight = 3
  [[menu.Main]]
   identifier = "fun stuff!"
-  name = "Fun Stuff"
+  name = "fun stuff"
   url = "/Fun_Stuff"
   weight = 4
 
@@ -38,7 +38,7 @@ Title = "Hi there "
 #Content = "Can be Info, links, about..."
 
 [[params.socialIcons]]
-name = "<Github>"
+name = "Github"
 url = "<https://github.com/sarvnazale>"
 
 [[params.socialIcons]]
