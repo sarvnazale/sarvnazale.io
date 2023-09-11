@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home Page on sarvnazale</title>
+    <title>sarvnazale</title>
     <link>https://sarvnazale.com/</link>
-    <description>Recent content in Home Page on sarvnazale</description>
+    <description>Recent content on sarvnazale</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2023 23:39:58 -0400</lastBuildDate><atom:link href="https://sarvnazale.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sarvnazale.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me :)</title>
       <link>https://sarvnazale.com/about/</link>
       <pubDate>Sat, 26 Aug 2023 00:09:39 -0400</pubDate>
       
       <guid>https://sarvnazale.com/about/</guid>
-      <description>At school 🏫 Second year Engineering Science student @ the University of Toronto.
-image in center: {{IMG.displayed { display: block; margin-left: auto; margin-right: auto } &amp;hellip; }}</description>
+      <description>At school 🏫 Second year Engineering Science student @ University of Toronto.
+Outside of school 🧠 Interested in data science, machine learning, biology, and human health.</description>
     </item>
     
     <item>
-      <title>Fun_Stuff</title>
+      <title>Hobbies</title>
       <link>https://sarvnazale.com/fun_stuff/</link>
       <pubDate>Fri, 25 Aug 2023 23:55:27 -0400</pubDate>
       
       <guid>https://sarvnazale.com/fun_stuff/</guid>
-      <description>Add some hobbies and fun facts here pics of what im working on, non-tech related
-recent books I read that I like?
-low effort</description>
+      <description>I spend lots of time on my laptop, so I try to balance that out with some other activities.</description>
     </item>
     
     <item>
@@ -39,14 +36,17 @@ could have overlap with experience but more outcome focused?</description>
     </item>
     
     <item>
-      <title>Experiences</title>
+      <title></title>
       <link>https://sarvnazale.com/experiences/</link>
       <pubDate>Fri, 25 Aug 2023 23:39:58 -0400</pubDate>
       
       <guid>https://sarvnazale.com/experiences/</guid>
-      <description>I store experiences here divide into what is on-going, and stuff from the past more resume ish?
-add a conferences/talks section? could be cool
-like attended: robotics conference opmc unerd etc</description>
+      <description>What I&amp;rsquo;m up to&amp;hellip; divide into what is on-going, and stuff from the past more resume ish?
+&amp;hellip;and what I&amp;rsquo;ve done add a conferences/talks section? could be cool
+like attended: robotics conference opmc unerd etc
+This is the content for Section 1.
+This is the content for Section 2.
+This is the content for Section 1.</description>
     </item>
     
   </channel>

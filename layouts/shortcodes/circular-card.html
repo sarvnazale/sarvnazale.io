@@ -1,0 +1,47 @@
+{{ $title := .Get "title" }}
+{{ $description := .Get "description" }}
+{{ $imageSrc := .Get "image_src" }}
+{{ $link := .Get "link" }}
+
+<div class="card">
+  <a href="{{ $link }}">
+    <div class="card-image">
+      <img src="{{ $imageSrc }}" alt="{{ $title }}">
+    </div>
+  </a>
+  <div class="card-text">
+    <h2 class="card-title">{{ $title }}</h2>
+    <p class="card-description">{{ $description }}</p>
+  </div>
+</div>
+
+<style>
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px; /* Adjust the width as needed */
+    text-align: center;
+  }
+
+  .card-image img {
+    width: 120px; /* Adjust the image width as needed */
+    height: 120px; /* Adjust the image height as needed */
+    border-radius: 50%;
+  }
+
+  .card-text {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+    margin-top: 5px;
+  }
+
+  .card-description {
+    color: #555;
+    font-size: 0.8rem;
+  }
+</style>

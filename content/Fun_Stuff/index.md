@@ -1,13 +1,10 @@
 ---
-title: "Fun_Stuff"
+title: "Hobbies"
 date: 2023-08-25T23:55:27-04:00
 draft: false
 ---
 
-## Add some hobbies and fun facts here 
 
-pics of what im working on, non-tech related 
+I spend lots of time on my laptop, so I try to balance that out with some other activities. 
 
-recent books I read that I like? 
-
-low effort 
+{{% circular_card image_src="/Users/sarvenazalemohammad/Documents/website/quickstart/static/img/HeadshotSarvnaz.jpg" alt_text="Image Alt Text" text="GRRRRR" %}}

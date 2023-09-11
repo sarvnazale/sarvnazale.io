@@ -1,0 +1,34 @@
+{{ $imageSrc := .Get "image_src" }}
+{{ $altText := .Get "alt_text" }}
+{{ $text := .Get "text" }}
+
+<style>
+  .circular-card {
+    text-align: center;
+  }
+
+  .circular-card-image {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px; /* Adjust the image width as needed */
+    height: 150px; /* Adjust the image height as needed */
+    margin: 0 auto;
+  }
+
+  .circular-card-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .circular-card-text {
+    margin-top: 10px;
+  }
+</style>
+
+<div class="circular-card">
+  <div class="circular-card-image">
+    <img src="{{ $imageSrc }}" alt="{{ $altText }}">
+  </div>
+  <p class="circular-card-text">{{ $text }}</p>
+</div>

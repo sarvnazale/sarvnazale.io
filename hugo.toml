@@ -14,12 +14,12 @@ enableEmoji = true
   identifier = "portfolio"
   name = "portfolio"
   url = "/Portfolio"
-  weight = 2
+  weight = 3
  [[menu.Main]]
   identifier = "experiences"
   name = "experiences"
   url = "/Experiences"
-  weight = 3
+  weight = 2
  [[menu.Main]]
   identifier = "fun stuff!"
   name = "fun stuff"
@@ -34,7 +34,7 @@ favicon = "img/favicon/favicon.ico"
 hideMeta = true
 
 [params.homeInfoParams]
-Title = "Hi!! ! ! ! ! ! ❤️ 👋"
+Title = "Hi!! ! ! ! ! ! 👋"
 #Content = "My name is Sarvnaz, and this is my personal website."
 Content = """
 My name is Sarvnaz, welcome to my personal website. 

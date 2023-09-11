@@ -1,0 +1,17 @@
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+      {{ with .Get "left" | safeHTML }}{{ . }}{{ end }}
+    </div>
+    <div style="flex: 1; padding: 10px;">
+      {{ with .Get "right" | safeHTML }}{{ . }}{{ end }}
+    </div>
+</div>
+
+<!-- Path: layouts/shortcodes/threecolumns.html 
+how to use: 
+
+ twocolumns left="Left column content goes here." right="Right column content goes here." 
+
+how to put illegal characters in the content: 
+
+-->
