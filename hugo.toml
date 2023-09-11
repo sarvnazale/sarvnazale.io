@@ -11,11 +11,6 @@ enableEmoji = true
   url = "/about"
   weight = 1
  [[menu.Main]]
-  identifier = "portfolio"
-  name = "portfolio"
-  url = "/Portfolio"
-  weight = 3
- [[menu.Main]]
   identifier = "experiences"
   name = "experiences"
   url = "/Experiences"
@@ -24,7 +19,7 @@ enableEmoji = true
   identifier = "fun stuff!"
   name = "fun stuff"
   url = "/Fun_Stuff"
-  weight = 4
+  weight = 3
 
 
 [params]
@@ -64,3 +59,9 @@ url = "mailto:hello@sarvnazale.com"
     favicon32x32 = "img/favicon/favicon-32x32.png"
     apple_touch_icon = "img/favicon/apple-touch-icon.png"
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false

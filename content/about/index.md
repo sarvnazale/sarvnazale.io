@@ -8,7 +8,10 @@ draft: false
 ## At school :school:
 Second year [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) student @ University of Toronto.
 
+Passionate about building community and supporting my peers - check out my work in [Women in Science and Engineering UofT ](https://wiseuoft.org/) 💜. 
 
 
 ## Outside of school :brain:
 Interested in data science, machine learning, biology, and human health. 
+
+Enjoy reading and learning about the world around me. Like interdisciplinary work and thinking about how different fields can work together to solve problems.

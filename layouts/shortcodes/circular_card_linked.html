@@ -1,0 +1,51 @@
+{{ $imageSrc := .Get "image_src" }}
+{{ $altText := .Get "alt_text" }}
+{{ $title := .Get "title" }}
+{{ $description := .Get "description" }}
+{{ $link := .Get "link" }}
+
+<style>
+  .circular-card {
+    text-align: center;
+    display: flex; /* Use flexbox to arrange items in a row */
+    flex-direction: column; /* Stack text below the image */
+    align-items: center; /* Center-align items horizontally */
+    margin: 10px; /* Adjust the margin between cards */
+  }
+
+  .circular-card-image {
+    border-radius: 50%;
+    width: 150px; /* Adjust the image width as needed */
+    height: 150px; /* Adjust the image height as needed */
+  }
+
+  .circular-card-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .circular-card-title {
+    font-weight: bold; /* Make the title bold */
+    margin-top: 10px;
+  }
+
+  .circular-card-description {
+    text-align: center; /* Center-align the description */
+    margin-top: 5px;
+  }
+</style>
+
+<div class="circular-card">
+  <a href="{{ $link }}">
+    <div class="circular-card-image">
+      <img src="{{ $imageSrc }}" alt="{{ $altText }}">
+    </div>
+  </a>
+  <div class="circular-card-title">
+    <p>{{ $title }}</p>
+  </div>
+  <div class="circular-card-description">
+    {{ $description | safeHTML }} <!-- Use safeHTML again for the description -->
+  </div>
+</div>
