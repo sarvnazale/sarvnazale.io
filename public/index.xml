@@ -13,7 +13,9 @@
       
       <guid>https://sarvnazale.com/about/</guid>
       <description>At school 🏫 Second year Engineering Science student @ University of Toronto.
-Outside of school 🧠 Interested in data science, machine learning, biology, and human health.</description>
+Passionate about building community and supporting my peers - check out my work in Women in Science and Engineering UofT 💜.
+Outside of school 🧠 Interested in data science, machine learning, biology, and human health.
+Enjoy reading and learning about the world around me. Like interdisciplinary work and thinking about how different fields can work together to solve problems.</description>
     </item>
     
     <item>
@@ -30,25 +32,18 @@ Gardening</description>
     </item>
     
     <item>
-      <title>Portfolio</title>
-      <link>https://sarvnazale.com/portfolio/</link>
-      <pubDate>Fri, 25 Aug 2023 23:55:15 -0400</pubDate>
-      
-      <guid>https://sarvnazale.com/portfolio/</guid>
-      <description>Split into icon ish list with links to projects and media, maybe a page for each? and some explanation praxis projects, conchshell, summer research, igem, idk
-could have overlap with experience but more outcome focused?
-Projects Project Title Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores soluta, incidunt sed non animi voluptates quo! Dolorum, atque. Rem soluta sunt similique labore officia, illo voluptatum alias quo tempora sequi!</description>
-    </item>
-    
-    <item>
-      <title>Work Experiences</title>
+      <title></title>
       <link>https://sarvnazale.com/experiences/</link>
       <pubDate>Fri, 25 Aug 2023 23:39:58 -0400</pubDate>
       
       <guid>https://sarvnazale.com/experiences/</guid>
-      <description>What I&amp;rsquo;m up to&amp;hellip; Software Developer @ iGEM Toronto Modelling, reading, learning. Interested in a more in-depth explanation of the biology involved? Check out our wiki!
-&amp;hellip;and what I&amp;rsquo;ve done Research Assistant @ Mount Sinai Cath Lab Research Assistant @ Hybrid Biomedical Optics Lab Recently attended: Transform HF Summer Showcase, where I won best abstract in Translational Science!
-Transform HF Summer Showcase, where I won best abstract in Translational Science!</description>
+      <description>At A Glance: iGEM Toronto
+This is a longer description with a link for the first card. Mount Sinai Cath Lab
+This is a longer description for the second card. AfimaCheck @ YorkU
+This is a longer description for the third card. ConchShell
+This is a longer description for the first card. Women in Science and Engineering UofT
+This is a longer description for the second card. Header 3
+This is a longer description for the third card.</description>
     </item>
     
   </channel>
