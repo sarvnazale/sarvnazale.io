@@ -79,6 +79,10 @@ Interested in a more in-depth explanation of the biology involved? Check out our
 
 - **Research Assistant @ Hybrid Biomedical Optics Lab**
 
+Worked on AfimaCheck, a saliva-based Cannabis detection system using thermal cameras.
+Automated data acquisition from thermal camera to detect the presence of target chemicals using C++.
+Processed raw frame data and performed image analysis using NumPy and MATLAB.
+
 
 - **ConchShell**
 
